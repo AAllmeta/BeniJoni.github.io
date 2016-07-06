@@ -1,0 +1,36 @@
+.email-background {
+  background: #eee;
+  padding: 10px; }
+
+.email-container {
+  max-width: 780px;
+  background-color: white;
+  font-family: Serif;
+  margin: 0px auto;
+  overflow: hidden;
+  border-radius: 5px;
+  text-align: center; }
+
+img {
+  max-width: 90%; }
+
+p {
+  margin: 30px;
+  line-height: 1.5;
+  font-weight: 400; }
+
+h1 {
+  margin: 20px;
+  line-height: 1.5;
+  font-weight: 700; }
+
+a.cta {
+  text-decoration: none;
+  display: block;
+  background: #3d87f5;
+  color: white;
+  padding: 10px 20px 10px;
+  border-radius: 5px; }
+
+.cta {
+  margin: 20px; }
